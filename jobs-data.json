@@ -1,0 +1,129 @@
+[  
+  {    
+    "title": "Full Stack Developer",    
+    "location": "San Francisco, CA",    
+    "description": "We are seeking a full stack developer with experience in JavaScript, React, and Node.js. This is a full-time position with competitive salary and benefits.",    
+    "keywords": ["JavaScript", "React", "Node.js", "full stack"],
+    "applyUrl" : "https://www.example.com/full-stack-developer-apply"
+  },
+  {
+    "title": "Frontend Developer",
+    "location": "New York, NY",
+    "description": "We are looking for a frontend developer with experience in HTML, CSS, and JavaScript. This is a remote position with flexible hours.",
+    "keywords": ["HTML", "CSS", "JavaScript", "frontend"],
+    "applyUrl" : "https://www.example.com/frontend-developer-apply"
+  },
+  {
+    "title": "Backend Developer",
+    "location": "Austin, TX",
+    "description": "We are seeking a backend developer with experience in Python, Django, and SQL. This is a full-time position with a fast-growing startup.",
+    "keywords": ["Python", "Django", "SQL", "backend"],
+    "applyUrl" : "https://www.example.com/backend-developer-apply"
+  },
+  {
+    "title": "UI/UX Designer",
+    "location": "Seattle, WA",
+    "description": "We are looking for a talented UI/UX designer to join our team. The ideal candidate has experience in Sketch, Adobe Creative Suite, and user research.",
+    "keywords": ["UI/UX", "designer", "Sketch", "Adobe Creative Suite"],
+    "applyUrl" : "https://www.example.com/ui-ux-designer-apply"
+  },
+  {
+    "title": "Software Engineer",
+    "location": "Boston, MA",
+    "description": "We are looking for a software engineer with experience in Java and Spring. This is a full-time position with a well-established company.",
+    "keywords": ["Java", "Spring", "software engineer"],
+    "applyUrl" : "https://www.example.com/software-engineer-apply"
+  },
+  {
+    "title": "Product Manager",
+    "location": "Chicago, IL",
+    "description": "We are seeking a product manager with experience in agile development methodologies. This is a full-time position with a growing startup.",
+    "keywords": ["product manager", "agile development"],
+    "applyUrl" : "https://www.example.com/product-manager-apply"
+  },
+  {
+    "title": "Data Scientist",
+    "location": "Chicago, IL",
+    "description": "We are seeking a data scientist with experience in Python and machine learning. This is a full-time position with a leading tech company.",
+    "keywords": ["data science", "Python", "machine learning"],
+    "applyUrl" : "https://www.example.com/data-scientist-apply"
+  },
+  {
+    "title": "Marketing Manager",
+    "location": "Los Angeles, CA",
+    "description": "We are looking for a marketing manager with experience in digital marketing and SEO. This is a remote position with a fast-growing startup.",
+    "keywords": ["marketing", "digital marketing", "SEO"],
+    "applyUrl" : "https://www.example.com/marketing-manager-apply"
+  },
+  {
+    "title": "Data Analyst",
+    "location": "Boston, MA",
+    "description": "We are seeking a data analyst with experience in SQL and Tableau. This is a full-time position with competitive salary and benefits.",
+    "keywords": ["data analyst", "SQL", "Tableau"],
+    "applyUrl" : "https://www.example.com/data-analyst-apply"
+  },
+  {
+    "title": "Mobile App Developer",
+    "location": "Los Angeles, CA",
+    "description": "We are looking for a mobile app developer with experience in React Native and Swift. This is a remote position with flexible hours.",
+    "keywords": ["mobile app", "React Native", "Swift", "developer"],
+    "applyUrl" : "https://www.example.com/mobile-app-developer-apply"
+  },
+  {
+    "title": "DevOps Engineer",
+    "location": "Chicago, IL",
+    "description": "We are seeking a DevOps engineer with experience in AWS and Docker. This is a full-time position with a fast-growing startup.",
+    "keywords": ["DevOps", "AWS", "Docker", "engineer"],
+    "applyUrl" : "https://www.example.com/devOps-engineer-apply"
+  },
+  {
+    "title": "Graphic Designer",
+    "location": "Miami, FL",
+    "description": "We are looking for a creative graphic designer with experience in Adobe Creative Suite. The ideal candidate has a portfolio of exceptional designs.",
+    "keywords": ["graphic designer", "Adobe Creative Suite", "design"],
+    "applyUrl" : "https://www.example.com/graphic-designer-apply"
+  },
+  {
+    "title": "Project Manager",
+    "location": "San Diego, CA",
+    "description": "We are seeking a product manager with experience in Agile methodologies and product roadmap planning. This is a full-time position with a growing tech company.",
+    "keywords": ["product manager", "Agile", "product roadmap"],
+    "applyUrl" : "https://www.example.com/project-manager-apply"
+  },
+  {
+    "title": "Sales Representative",
+    "location": "Houston, TX",
+    "description": "We are looking for a sales representative with experience in B2B sales and account management. This is a commission-based position with uncapped earning potential.",
+    "keywords": ["sales representative", "B2B sales", "account management"],
+    "applyUrl" : "https://www.example.com/sales-representative-apply"
+  },
+  {
+    "title": "Content Writer",
+    "location": "Portland, OR",
+    "description": "We are seeking a content writer with experience in SEO and writing for the web. The ideal candidate has a portfolio of published articles.",
+    "keywords": ["content writer", "SEO", "web writing"],
+    "applyUrl" : ""
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "location": "Seattle, WA",
+    "description": "We are looking for a cybersecurity analyst with experience in vulnerability assessment and penetration testing. This is a full-time position with competitive salary and benefits.",
+    "keywords": ["cybersecurity", "vulnerability assessment", "penetration testing", "analyst"],
+    "applyUrl" : "https://www.example.com/cybersecurity-analyst-apply"
+  },
+  {
+    "title": "Social Media Manager",
+    "location": "Atlanta, GA",
+    "description": "We are seeking a social media manager with experience in creating and executing social media campaigns. The ideal candidate has a deep understanding of social media analytics.",
+    "keywords": ["social media", "manager", "campaigns", "analytics"],
+    "applyUrl" : "https://www.example.com/social-media-manager-apply"
+  },
+  {
+    "title": "Video Editor",
+    "location": "New Orleans, LA",
+    "description": "We are looking for a skilled video editor with experience in Adobe Premiere and After Effects. The ideal candidate has a portfolio of high-quality video projects.",
+    "keywords": ["video editor", "Adobe Premiere", "After Effects", "video projects"],
+    "applyUrl" : "https://www.example.com/video-editor-apply"
+  }
+    
+]
